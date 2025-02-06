@@ -1,0 +1,29 @@
+Label,Baseline
+"Preference for inaction
+ [Interventionism]",0.061
+"Sparing females
+ [Gender]",0.119
+"Sparing higher status
+ [Social Status]",0.345
+"Sparing humans
+ [Species]",0.585
+"Sparing more characters
+ [No. Characters]",0.651
+"Sparing pedestrians
+ [Relation to AV]",0.097
+"Sparing the fit
+ [Fitness]",0.16
+"Sparing the lawful
+[Law]",0.353
+"Sparing the younger
+ [Age]",0.497
+
+0.061
+0.097
+0.353
+0.119
+0.16
+0.345
+0.497
+0.651
+0.585
